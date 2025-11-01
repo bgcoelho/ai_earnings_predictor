@@ -1,0 +1,6 @@
+pinecone_index: "earnings-db-004"
+csv_file: "abnormal_items_v10.csv"
+model_name: gpt-4o-mini
+temperature: 0.7
+max_tokens: 400
+data_path: 
